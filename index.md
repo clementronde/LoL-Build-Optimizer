@@ -8,6 +8,9 @@
 - **Suivi des tendances** : Adapte les builds en fonction des patchs et ajustements de Riot Games.
 - **Personnalisation** : Permet aux utilisateurs d’ajuster les recommandations selon la composition de l’équipe ennemie.
 
+- Exemple de sheet crée avec l'API 24H : 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8lwKuJMVf_JWn3v4MFTYmpc0siSvr7_HBDsKuOPAkpkxHHlVMvES4aSfmWJBt7-wnOi5oQfUgsApZ/pubhtml?widget=true&amp;headers=false"></iframe>
+
 ## Technologies et APIs utilisées
 - **API Match** : Pour collecter les données de matchs et performances.
 - **API Summoner** : Pour obtenir l'historique des joueurs.
