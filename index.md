@@ -9,7 +9,7 @@
 - **Personnalisation** : Permet aux utilisateurs d’ajuster les recommandations selon la composition de l’équipe ennemie.
 
 - Exemple de sheet crée avec l'API 24H :
-- <a href="[https://lien-vers-votre-google-sheet.com](https://docs.google.com/spreadsheets/d/e/2PACX-1vT8lwKuJMVf_JWn3v4MFTYmpc0siSvr7_HBDsKuOPAkpkxHHlVMvES4aSfmWJBt7-wnOi5oQfUgsApZ/pubhtml?widget=true&amp;headers=false)" style="display:inline-block; padding:10px 15px; color:white; background-color:#4CAF50; border-radius:5px; text-decoration:none;">Consulter le Google Sheet</a>
+- <a href="https://docs.google.com/spreadsheets/d/1zRIMBLf3BM-Udoxn9K6IBCINozZmCzgVDQMwb8Yejas/edit?usp=sharing" style="display:inline-block; padding:10px 15px; color:white; background-color:#4CAF50; border-radius:5px; text-decoration:none;">Consulter le Google Sheet</a>
 
 
 ## Technologies et APIs utilisées
